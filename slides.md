@@ -21,7 +21,7 @@ overviewSnapshots: true
 
 # QEMU 源码分析
 
-[视频教程 - 泽文(Chao Liu)]()
+[视频教程 - 泽文(Chao Liu)](https://www.bilibili.com/video/BV1PmSEYtETA)
 
 ---
 src: ./pages/2024-10-29-Analysis-of-TCG-Principles.md
