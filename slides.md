@@ -5,7 +5,7 @@ theme: academic
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Learn KVM
+title: Learn QEMU
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
