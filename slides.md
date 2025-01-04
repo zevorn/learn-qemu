@@ -30,3 +30,9 @@ src: ./pages/2024-10-29-Analysis-of-TCG-Principles.md
 ---
 src: ./pages/2024-11-11-Add-riscv-insn-for-qemu.md
 ---
+
+---
+src: ./pages/2025-01-04-Analysis-of-QOM.md
+---
+
+
